@@ -14,7 +14,7 @@ JavaScript
 ### Setup
 clone to you local machine
 create a directory on a your local machin.
-open your terminal and type: git clone https://github.com/chidiebereojingwa/myPortfolio_website.git
+open your terminal and type: git clone https://github.com/chidiebereojingwa/tribute_page.git
 ### Usage
 Clone project to your local machine 
 run the index.html
