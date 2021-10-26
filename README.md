@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Tribute page
+#Tribute page
 
 This repository is a Tribute page for Dr. Norman Borlaug website built with HTML,CSS and Linters. 
 
